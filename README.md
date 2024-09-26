@@ -35,6 +35,6 @@ This project is a simple Sales and Inventory Management System implemented in Py
 
 NOTE: 
 - Ensure you have Python installed on your system. You can check this by running:
-      - python --version
+    - python --version
 - Make sure you have MySQL installed and running.
-- Password of the admin section is *
+- Password of the admin section is '*'.
